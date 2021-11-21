@@ -3,6 +3,8 @@ import "./styles/normalise.css";
 import "./styles/main_styles.css"
 import MyButton from './components/MyButton';
 
+
+
 const App = () => {
   return (
     <div className="main_container">
@@ -40,7 +42,7 @@ const App = () => {
       <div className="section3">
       Sign up for our newsletter!
       <input type="text" name="email" id="email" className="input_email" />
-      <MyButton />
+      <MyButton name="Sign Up" />
         <div className="contracts">
           <div className="contacts_section">
       <ul>
