@@ -5,6 +5,8 @@ I decided to make a parallax app to use on my own site and this is my first atte
 
 to browse: https://react-parallax-v1.herokuapp.com/
 
+(click the sign up button for surprise)
+
 
 ## Run Locally
 
